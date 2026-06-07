@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Vaibhav Channalli
 
-<!--
-**vaibhav-C-code/Vaibhav-C-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Electronics and Communication Engineering Student interested in RTL Design and Digital VLSI.
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- SystemVerilog
+- Verilog HDL
+- FPGA Design
+- Digital Electronics
+- AXI Protocols
+- RTL Verification
+
+## Tools
+
+- Vivado
+- VS Code
+- Git
+- Yosys
+- Ollama
+- Qwen2.5-Coder
+
+## Projects
+
+### Configurable Floating Point Matrix Multiplier
+RTL design project for AIML accelerators.
+
+### AXI4-Lite Peripheral Interface Controller
+SystemVerilog AXI4-Lite slave controller with SVA assertions and verification environment.
+
+## Currently Learning
+
+- Advanced RTL Design
+- Verification Methodologies
+- AMBA Protocols
+- FPGA Prototyping
